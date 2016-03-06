@@ -1,0 +1,8 @@
+-Install Node and npm
+
+-When requiring in, best practice is to not put file extension
+
+-Node is meant to address I/O scalability not computational scalability (whatever that means)
+
+-key to good node development is not blocking main processes
+
